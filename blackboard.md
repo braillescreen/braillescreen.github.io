@@ -1,5 +1,5 @@
 # Blackboard with Screen Readers.
-If you use a screen reader such as NVDA or Voiceover, this document will attempt to help you navigate around blackboard and courses within.
+If you use a screen reader such as NVDA or Voice-over, this document will attempt to help you navigate around blackboard and courses within.
 This guide is still considered in beta and will certainly be updated. If you have anything you wish to add or point out that I didn't get to, please feel free to submit a PR.
 
 ## 1. Logging in.
@@ -7,8 +7,8 @@ To log in, go to [this website](https://blackboard.coursesites.com/).
 
 If this happens to be your first time logging in, you will be presented with a privacy disclaimer. When you are done reading, you will find a button called "OK". Press it to continue.
 
-You will land on the login screen. This is where you enter your username and password you have.
-The first two fields you will find is the username and password fields. Below them, you have sign in, forgot your password, and create new account.
+You will land on the login screen. This is where you enter your user name and password you have.
+The first two fields you will find is the  and password fields. Below them, you have sign in, forgot your password, and create new account.
 
 ## I logged in, now what?
 After logging in, go to the top of the screen (near the address bar on iOS) and you will find the navigation. The navigation has the following items:
