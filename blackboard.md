@@ -8,9 +8,11 @@ To log in, go to [this website](https://blackboard.coursesites.com/).
 If this happens to be your first time logging in, you will be presented with a privacy disclaimer. When you are done reading, you will find a button called "OK". Press it to continue.
 
 You will land on the login screen. This is where you enter your user name and password you have.
-The first two fields you will find is the  and password fields. Below them, you have sign in, forgot your password, and create new account.
+The first two fields you will find is the user name and password fields. Below them, you have sign in, forgot your password, and create new account.
 
 ## I logged in, now what?
+When logging in, you may find a weird anouncement. If you get it, there is a button called close below it, so you will need to press it.
+
 After logging in, go to the top of the screen (near the address bar on iOS) and you will find the navigation. The navigation has the following items:
 * Institution page: Where you are now. Currently this shows random information about Blackboard.
 * Your name: View your profile or edit it.
