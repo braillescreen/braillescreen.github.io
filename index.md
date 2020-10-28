@@ -9,6 +9,8 @@ I have a lot of random stuff on [my website](https://pwilson-web.com) that you c
 ## SBYW Map Checker
 There is a game for the blind called [Scrolling Battles, Your World](https://www.ims-productions.com/SBYW.php). This program parses the data of maps you generate, and tells you how many of each type of object there are using the map's data.
 
+You can [check out that project here](https://github.com/braillescreen/SBYWMapChecker).
+
 # That's all for now.
 Please come back soon as I will, in all probability, update this as time goes on. In case I forget, you can follow me on [GitHub](https://github.com/braillescreen) or [Twitter](https://twitter.com/braillescreen).
 
