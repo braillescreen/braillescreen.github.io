@@ -1,0 +1,4 @@
+Sitemap: https://braillescreen.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: braillescreen.github.io
