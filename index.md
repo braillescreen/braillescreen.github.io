@@ -6,6 +6,9 @@ In no order, they are as follows.
 ## My personal website
 I have a lot of random stuff on [my website](http://braillescreen.net) that you can check out.
 
+## NVGT (Nonvisual Gaming Toolkit)
+I'm a contributor to the [Nonvisual Gaming Toolkit](https://nvgt.gg).  I work on the build scripts, documentation and other random parts from time-to-time.
+
 ## SBYW Map Checker
 There is a game for the blind called [Scrolling Battles, Your World](https://www.ims-productions.com/SBYW.php). This program parses the data of maps you generate, and tells you how many of each type of object there are using the map's data.
 
