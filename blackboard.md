@@ -1,4 +1,6 @@
 # Blackboard with Screen Readers.
+Please note that I began to write this guide for a school project years ago. I do not have access to Blackboard anymore, so I won't be able to finish it. For now, enjoy some documentation on the login screen! :)
+
 If you use a screen reader such as NVDA or Voice-over, this document will attempt to help you navigate around blackboard and courses within.
 This guide is still considered in beta and will certainly be updated. If you have anything you wish to add or point out that I didn't get to, please feel free to submit a PR.
 
